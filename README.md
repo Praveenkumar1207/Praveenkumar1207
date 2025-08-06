@@ -1,120 +1,160 @@
-👋 Hi, I'm Praveen Kumar V
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColorgeeksforgeeks&logoColor=whiteechnical Hub Pvt Ltd
-🎓 B.Tech—AI & ML
-📍 Surampalem, India
+# Praveen Kumar V
 
-✨ Passionate about MERN Stack, System Design, Competitive Programming, and Scalable Web Applications!
+**Full Stack Developer** • **AI/ML Student** • **ServiceNow Certified Professional**
 
-🚩 Competitive Programming
-🏆 HackerRank 5-Star Coder in Python, C, Java
+*Passionate about building scalable web applications and solving complex problems through code*
 
-⭐ CodeChef 2-Star Coder with consistent performance
+---
 
-💻 Active problem solver across multiple coding platforms
+## 🎯 About Me
 
-🧠 Strong foundation in Data Structures & Algorithms
+I'm a dedicated Computer Science student specializing in **Artificial Intelligence & Machine Learning** at Aditya Engineering College, with hands-on experience in full-stack development. I combine academic knowledge with practical skills to create meaningful digital solutions.
 
-Competitive programming enhances my problem-solving abilities and algorithmic thinking, directly improving my approach to real-world software engineering challenges.
+**Currently seeking:** Entry-level Full Stack Developer positions and internship opportunities
 
-💻 Tech Stack
-👨💻 Languages
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColorgresql&logoColor=whiteio/badge/o/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white/Express.js-404D59?style=for-the-badge&logo=express&logoColor=badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=tps://img.shields.io/badgebadge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=ions with reliability and performance
+---
 
-Cloud deployment and optimization strategies
+## 🛠️ Technical Skills
 
-🌱 Current Focus
-Deep-diving into advanced MERN Stack features and system architectures
+### Languages & Frameworks
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
 
-Exploring AI/ML integration with web applications
+### Databases & Cloud
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
 
-Building scalable, production-ready applications
+### Tools & Technologies
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+![ServiceNow](https://img.shields.io/badge/ServiceNow-00A1C9?style=flat&logo=servicenow&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
 
-Contributing to open-source projects and tech community
+---
 
-Always learning something new in the world of full-stack development
+## 💼 Project Experience
 
-🛠️ MERN Stack & Full Stack Development
-🌐 RESTful APIs & Microservices Architecture
+### VEDA Event Management Platform
+**Tech Stack:** React.js, Express.js, MongoDB  
+**Duration:** 3 months | **Team Size:** 10 members
 
-⚡ Enterprise-Grade Frontend & Backend Development
+- Developed a comprehensive event management system for university events
+- Implemented secure user registration with payment gateway integration
+- Built admin dashboard with real-time analytics and attendance tracking
+- **Impact:** Successfully managed registration for 1000+ attendees
 
-📈 Scalable, Fast, and Secure Web Applications
+**Key Features:**
+- User authentication and authorization
+- Payment processing integration
+- Real-time data visualization
+- Responsive design for mobile and desktop
 
-🗄️ Database Integration: MongoDB, MySQL with optimized queries
+---
 
-🔒 Performance Tuning, Security Best Practices, CI/CD Pipelines
+### Real-Time Student Monitoring System  
+**Tech Stack:** React.js, Node.js, MongoDB, AWS  
+**Duration:** 2 months
 
-☁️ AWS Cloud Deployment with High Availability and Low-Latency Systems
+- Created a campus management solution for tracking student attendance
+- Developed barcode-based visitor tracking system
+- Implemented automated notification system (SMS/Email)
+- Deployed on AWS with optimized performance
 
-📚 Certifications
-HTML/CSS IT Specialist - Industry-standard web development
+**Technical Achievements:**
+- Reduced manual processing time by 80%
+- Achieved 99.9% system uptime
+- Handled concurrent users efficiently
+- Generated automated PDF reports
 
-Python IT Specialist - Advanced Python programming
+---
 
-Cisco C Programming - System-level programming expertise
+## 🏆 Achievements & Certifications
 
-NPTEL DBMS - Database management and optimization
+**Competitive Programming:**
+- 🥇 **HackerRank 5-Star** in Python, C, Java
+- ⭐ **CodeChef 2-Star** Programmer
 
-🚀 Featured Projects
-🎯 Real-Time Student Monitoring System
-React.js · Node.js · MongoDB · AWS
+**Professional Certifications:**
+- **ServiceNow Certified System Administrator (CSA)**
+- **ServiceNow Certified Application Developer (CAD)**
+- **Python IT Specialist Certification**
+- **HTML/CSS IT Specialist Certification**
+- **NPTEL Database Management Systems**
 
-Live Application: adityauniversity.in/latecomers/dashboard
+**Leadership & Mentoring:**
+- Mentored 80+ junior students in programming concepts
+- Conducted technical workshops on web development
+- Active participant in coding competitions and hackathons
 
-🔴 Live monitoring system for 1000+ students with automated SMS/email notifications
+---
 
-📱 Barcode-based visitor tracking reducing processing time by 80%
+## 📊 GitHub Statistics
 
-☁️ AWS deployment with advanced filtering and PDF reporting features
+<div align="center">
 
-🚀 99.9% uptime with robust error handling and scalable architecture
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Praveenkumar1207&show_icons=true&theme=default&hide_border=true&count_private=true)
 
-🎪 VEDA Event Management Platform
-React.js · Express.js · MongoDB
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Praveenkumar1207&layout=compact&theme=default&hide_border=true)
 
-Event Portal: adityauniversity.in/veda2024
-Admin Dashboard: adityauniversity.in/vedaadmin
+</div>
 
-👥 Collaborative development with 10-member team for 1000+ attendees
+---
 
-💳 Secure registration system with payment gateway and email confirmations
+## 🎓 Education
 
-📊 Admin dashboard with real-time analytics and attendance tracking
+**Bachelor of Technology in Computer Science Engineering**  
+*Specialization: Artificial Intelligence & Machine Learning*  
+**Aditya Engineering College** • Expected Graduation: 2026  
 
-🎯 Event-driven backend architecture for optimal performance
+**Relevant Coursework:**
+- Data Structures and Algorithms
+- Database Management Systems
+- Software Engineering
+- Machine Learning Fundamentals
+- Web Technologies
 
-🏆 GitHub Stats
-![Praveen's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pravecal Hub Pvt. Ltd.
-August 2024 – December 2024
+---
 
-🚀 Led development of 2 live MERN stack applications serving 1000+ users with 99.9% uptime
+## 💡 What I'm Learning
 
-⚡ Built scalable RESTful APIs using Node.js/Express.js with MongoDB integration
+- Advanced React patterns and performance optimization
+- Microservices architecture and design patterns
+- Machine Learning model deployment
+- Cloud-native application development
+- System design for scalable applications
 
-🎨 Developed responsive React.js interfaces ensuring cross-browser compatibility
+---
 
-📚 Mentored 80+ junior trainees and conducted weekly technical sessions
+## 🎯 Career Objectives
 
-🎓 Data Structures and Algorithms Intern | Technical Hub Pvt. Ltd.
-February 2024 – May 2024
+- Seeking opportunities to contribute to innovative software development projects
+- Interested in full-stack development roles with growth potential
+- Eager to work with modern technologies and agile development practices
+- Looking to apply AI/ML knowledge in real-world applications
 
-🧠 Completed 4-month intensive training in advanced algorithms and data structures
+---
 
-👨🏫 Mentored 50+ students in programming and conducted technical workshops
+## 📫 Let's Connect
 
-🏆 Achieved consistent performance in competitive programming contests
+<div align="center">
 
-🎯 2025 Goals & Aspirations
-🚀 Expand expertise in advanced system design and microservices architecture
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:praveenkumarv1207@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/praveenkumarviswanadhapalli)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Praveenkumar1207)
 
-📱 Explore React Native for cross-platform mobile development
+</div>
 
-🌍 Contribute to open-source projects and build stronger community presence
+---
 
-🤖 Integrate AI/ML capabilities into full-stack applications
+<div align="center">
 
-🎓 Complete B.Tech with distinction while gaining more industry experience
+*Open to opportunities • Available for internships and entry-level positions*
 
-🤝 Let's Connect!
-[
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=
+![Profile Views](https://komarev.com/ghpvc/?username=Praveenkumar1207&color=blue&style=flat)
+
+</div>
